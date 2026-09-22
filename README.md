@@ -142,3 +142,4 @@ Also you can use configuration via config file, default name **config.json**.
 ## Other information
 * No HTTP support, only stratum protocol support.
 * Default donation 5% (5 minutes in 100 minutes) can be reduced to 1% via option `donate-level`.
+esc
