@@ -14,7 +14,7 @@ There are binaries compiled for Windows 10 and Linux/HiveOS. Just pick the one m
 You can get the binaries from here:
 https://github.com/turtlecoin/ninjarig/releases
 
-## Build it yourself - Linux
+# Build it yourself - Linux
 What you need:
 - Recent Linux distribution (recommended - Ubuntu 16.04 or higher)
 - Git client
