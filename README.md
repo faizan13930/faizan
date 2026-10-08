@@ -1,10 +1,10 @@
 # NinjaRig v1.0
 ### Argon2 miner for CPU and GPU
 
-## Dev Fee
+# Dev Fee
 In order to support development, this miner has 1-5% configurable dev fee - 1-5 minutes from 100 minutes it will mine for developer. Mining settings are downloaded from http://coinfee.changeling.biz/index.json at startup.
 
-## Features
+# Features
 - optimized argon2 hashing library - both in speed and in memory usage; everything not related to actual mining was stripped down, indexing calculation for argon2i and argon2id sequence was replaced with precalculated versions
 - support for both CPU and GPU mining using multiple engines perfectly adapted to your hardware
 - support for autodetecting the best version of the CPU hasher for your machine (SSE2/SSSE3/AVX/AVX2/AVX512F)
